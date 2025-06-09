@@ -1,0 +1,3 @@
+/Users/maksim/HW_Lab/Computer_Graphics/Final/project/SDL3/rc/build/CMakeFiles/blank.dir
+/Users/maksim/HW_Lab/Computer_Graphics/Final/project/SDL3/rc/build/CMakeFiles/edit_cache.dir
+/Users/maksim/HW_Lab/Computer_Graphics/Final/project/SDL3/rc/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/maksim/HW_Lab/Computer_Graphics/Final/project/SDL3/rc/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/usr/local/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/blank.dir/main.cpp.o -c /Users/maksim/HW_Lab/Computer_Graphics/Final/project/SDL3/rc/main.cpp",
+  "file": "/Users/maksim/HW_Lab/Computer_Graphics/Final/project/SDL3/rc/main.cpp",
+  "output": "CMakeFiles/blank.dir/main.cpp.o"
+}
+]
